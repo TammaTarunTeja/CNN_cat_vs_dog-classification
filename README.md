@@ -2,3 +2,4 @@ dataset url : https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatase
 
 
 make sure to unzip the zip folder in IDE (colab or jupyter) itself. 
+
